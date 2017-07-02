@@ -1,9 +1,23 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	border: 0;
+}
+
 body{
 	background-color: #ddd;
 }
 
+.git-header{
+	background-color: #333;
+	padding:40px 0px;
+}
+
 .titulo-git{
 	text-align: center;
+	color: #eee;
+	
 }
 
 .git-container{

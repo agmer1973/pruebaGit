@@ -2,7 +2,7 @@ var bloque1 = document.getElementById("git-1");
 var bloque2 = document.getElementById("git-2");
 
 function leer(){
-	this.style.fontSize = "30px";
+	this.style.fontSize = "25px";
 }
 
 function noLeer(){
